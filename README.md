@@ -1,1 +1,0 @@
-# Luckology app
